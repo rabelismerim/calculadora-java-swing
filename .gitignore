@@ -1,0 +1,5 @@
+/build/
+/dist/
+/tools/*.jar
+/nbproject/private/
+*.class
